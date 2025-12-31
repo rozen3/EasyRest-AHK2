@@ -33,6 +33,9 @@
 
 A lightweight, responsive, and modern-looking rest reminder for Windows, designed to mitigate work fatigue through regular forced or gentle reminders.
 
+## 📸 Software Preview​
+![Rest Reminder with Transparent Window](./demo_en.png)  ​
+
 ### ✨ Key Features
 * **Dynamic Tray Icon**: Displays a real-time progress bar for work time and remaining minutes.
 * **Multi-Theme Support**: Includes "Minimalist White", "Geek Black", and "Fresh Green" themes.
