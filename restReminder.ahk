@@ -9,7 +9,7 @@
 Global pToken := 0, hCurrentIcon := 0
 Global WorkTime := 1800000, RestDuration := 60, SnoozeTime := 300000, WindowTransparency := 255
 Global MyGui := 0, RestGui := 0, CurrentCount := 0, IsPaused := false, IsResting := false, TimeElapsed := 0
-Global ConfigFile := "休息提醒配置文件.ini"
+Global ConfigFile := "config.ini"
 
 ; 主题配置
 Global CurrentTheme := IniRead(ConfigFile, "Settings", "Theme", "简约白")
