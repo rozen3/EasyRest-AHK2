@@ -21,7 +21,7 @@
 
 ### 🚀 快速开始
 1.  确保电脑已安装 [AutoHotkey v2.0+](https://www.autohotkey.com/)。
-2.  下载并运行 `休息提醒.ahk`。
+2.  下载并运行 `restReminder.ahk`。
 3.  通过托盘右键菜单自定义你的配置。
 
 ### 🛠 自定义
